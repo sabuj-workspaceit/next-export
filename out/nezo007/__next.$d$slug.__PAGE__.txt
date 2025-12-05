@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[33634,["/next-export/_next/static/chunks/aa6db346d84b0407.js"],"default"]
+3:I[97367,["/next-export/_next/static/chunks/ff1a16fafef87110.js","/next-export/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"WMopxiYeA9l-Gim8qrdBW","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","p",null,{"children":["Slug: ","nezo007"]}],["$","p",null,{"children":"Language: default"}],["$","$L2",null,{"lang":"default","slug":"nezo007"}]]}],[["$","script","script-0",{"src":"/next-export/_next/static/chunks/aa6db346d84b0407.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
