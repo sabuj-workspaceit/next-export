@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[97367,["/next-export/_next/static/chunks/ff1a16fafef87110.js","/next-export/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/next-export/_next/static/chunks/ff1a16fafef87110.js","/next-export/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[27201,["/next-export/_next/static/chunks/ff1a16fafef87110.js","/next-export/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+0:{"buildId":"1KEgAWrBWM5_RCr0JBotQ","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Nezo008"}],["$","meta","1",{"name":"description","content":"Nezo008"}],["$","meta","2",{"property":"og:title","content":"Nezo008"}],["$","meta","3",{"property":"og:description","content":"Nezo008"}],["$","meta","4",{"property":"og:image","content":"https://nezo008.com/images/nezo008.jpg"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Nezo008"}],["$","meta","7",{"name":"twitter:description","content":"Nezo008"}],["$","meta","8",{"name":"twitter:image","content":"https://nezo008.com/images/nezo008.jpg"}],["$","link","9",{"rel":"icon","href":"/next-export/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","10",{}]]
